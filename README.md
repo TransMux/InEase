@@ -3,7 +3,7 @@ Hello Ya!
 <!--START_SECTION:waka-->
 
 ```text
-Other            52 hrs 36 mins  ████████████████████▓░░░░   82.73 %
+Other            51 hrs 32 mins  ████████████████████▓░░░░   82.52 %
 ```
 
 <!--END_SECTION:waka-->
