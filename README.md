@@ -3,10 +3,11 @@ Hello Ya!
 <!--START_SECTION:waka-->
 
 ```text
-Python           32 mins         ████████████████████████░   96.06 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-JavaScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript       1 hr 37 mins    ██████████████████░░░░░░░   71.65 %
+Python           32 mins         ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+JSON             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
