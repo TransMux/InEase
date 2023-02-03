@@ -3,9 +3,9 @@ Hello Ya!
 <!--START_SECTION:waka-->
 
 ```text
-Python           14 mins         ████████████████████████░   95.70 %
-JavaScript       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JavaScript       2 hrs 29 mins   █████████████████████▒░░░   85.43 %
+Python           14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Other            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
