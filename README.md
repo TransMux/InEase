@@ -3,12 +3,12 @@ Hello Ya!
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js           6 hrs 23 mins   █████████████░░░░░░░░░░░░   52.02 %
-TypeScript       4 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   36.43 %
-JavaScript       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-JSON             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Jupyter          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-GitIgnore file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Vue.js           6 hrs 23 mins   ████████████░░░░░░░░░░░░░   48.49 %
+TypeScript       4 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   33.96 %
+Python           47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+JavaScript       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+JSON             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+GitIgnore file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
