@@ -1,13 +1,13 @@
 ## Hello Ya! 👋🏻
 
-I am `Mux`, an undergraduate student from UESTC.
+I am `Mux`, working towards AI, graduated from UESTC, feel free to contact me!
 
-- 📚 Artificial Intelligence (Graduating in 2024, GPA: 3.7/4.0)
-- 💬 English(en, IELTS: 7.0, GRE:preparing...) 中文(zh)
-- 🧠 Deep Learning + NLP + CV (Python)
-- 🌐 Full-stack web (Vue3 + Flask/FastAPI/NodeJS/Golang + SQL/SaaS)
+- 📚 Artificial Intelligence (GPA: 3.8/4.0)
+- 💬 English(en, IELTS: 7.0, GRE:320) 中文(zh)
+- 🧠 Working in Beijing as `AGI Engineerer`
+- 🌐 Full-stack web (Vue3/React + Flask/FastAPI/NodeJS/Golang + SQL/SaaS), Rapid development
 - 💕 Opensource
-- 👩‍💻 3 years of coding experience
+- 👩‍💻 5 years of coding experience
 
 ## ⭐️ Featured
 
@@ -41,8 +41,8 @@ I am `Mux`, an undergraduate student from UESTC.
 **Others**
 
 - [mrcaidev/uestc-temperature](https://github.com/mrcaidev/uestc-temperature): Automated health check-in system for undergraduates for UESTC students.
-- UESTC-ics: UESTC class schedule generator for calendar (Not OpenSourced)
-- UESTC-CourseElectPlugin: A Chrome extension for automatic course enrollment. (Not OpenSourced)
+- UESTC-ics: UESTC class schedule generator for calendar
+- UESTC-CourseElectPlugin: A Chrome extension for automatic course enrollment
 
 ## 🔧 Things I code with:
 
