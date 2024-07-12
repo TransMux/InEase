@@ -1,48 +1,6 @@
 ## Hello Ya! 👋🏻
 
-I am `Mux`, working towards AI, graduated from UESTC, feel free to contact me!
-
-- 📚 Artificial Intelligence (GPA: 3.8/4.0)
-- 💬 English(en, IELTS: 7.0, GRE:320) 中文(zh)
-- 🧠 Working in Beijing as `AGI Engineerer`
-- 🌐 Full-stack web (Vue3/React + Flask/FastAPI/NodeJS/Golang + SQL/SaaS), Rapid development
-- 💕 Opensource
-- 👩‍💻 5 years of coding experience
-
-## ⭐️ Featured
-
-- [slidevjs/slidev](https://github.com/slidevjs/slidev): _Create impressive presentations for developers with markdown-based content, syntax highlighting, live coding, LaTeX math equations, diagrams, icons, and Vue components, as well as the ability to record, export, and theme, all powered by Vite and hackable with plugins and npm packages._
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): _SiYuan is a free, local-first personal knowledge management system that supports block-level reference and Markdown WYSIWYG, with features like custom attributes, SQL query embed, web clipping, and end-to-end encrypted data sync and backup._
-- [datawhalechina/torch-rechub](https://github.com/datawhalechina/torch-rechub): _A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend._
-- [InEase/TorchMiner](https://github.com/InEase/TorchMiner): _TorchMiner - A simple API for PyTorch Deep Learning that automates training, evaluating and testing processes._
-- [InEase/SVM](https://github.com/InEase/SVM): _A Support vector machine without using machine learning libraries. 手写 SVM_
-- [InEase/SiYuan-Xmind](https://github.com/InEase/SiYuan-Xmind): _Connecting SiYuan with Xmind ecosystem._
-
-## 🔨 Projects
-
-**Open Source**
-
-- [slidevjs/slidev](https://github.com/slidevjs/slidev): _Create impressive presentations for developers with markdown-based content, syntax highlighting, live coding, LaTeX math equations, diagrams, icons, and Vue components, as well as the ability to record, export, and theme, all powered by Vite and hackable with plugins and npm packages._
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): _SiYuan is a free, local-first personal knowledge management system that supports block-level reference and Markdown WYSIWYG, with features like custom attributes, SQL query embed, web clipping, and end-to-end encrypted data sync and backup._
-- [datawhalechina/torch-rechub](https://github.com/datawhalechina/torch-rechub): _A Lighting Pytorch Framework for Recommendation Models, Easy-to-use and Easy-to-extend._
-
-**Artificial Intelligence**
-
-- [InEase/TorchMiner](https://github.com/InEase/TorchMiner): _TorchMiner - A simple API for PyTorch Deep Learning that automates training, evaluating and testing processes._
-- [InEase/SVM](https://github.com/InEase/SVM): _A Support vector machine without using machine learning libraries. 手写 SVM_
-- [InEase/SOM](https://github.com/InEase/SOM): _An SOM (Self-Organized-Map) without using machine learning libraries. 手写 SOM_
-
-**Full Stack Development**
-
-- [InEase/EyeDiseaseDetect](https://github.com/InEase/EyeDiseaseDetect): Early diagnosis and treatment of glaucoma is crucial to prevent blindness, and this computer-aided diagnostic platform helps reduce medical workload and optimize healthcare resources.
-- [InEase/CommunityBackend](https://github.com/InEase/CommunityBackend): A high-performance, cross-platform, and simple community app backend written in Go language.
-- [InEase/iGemwiki](https://github.com/InEase/iGemwiki): iGem Wiki is a customizable website framework using Vue Composition API, WindiCSS, and Vite for publishing team blogs.
-
-**Others**
-
-- [mrcaidev/uestc-temperature](https://github.com/mrcaidev/uestc-temperature): Automated health check-in system for undergraduates for UESTC students.
-- UESTC-ics: UESTC class schedule generator for calendar
-- UESTC-CourseElectPlugin: A Chrome extension for automatic course enrollment
+I am `Mux`, working towards AI, studying in Nanyang Technological University, feel free to contact me!
 
 ## 🔧 Things I code with:
 
